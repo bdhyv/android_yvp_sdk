@@ -35,7 +35,7 @@ Add the dependency to your app's `build.gradle` file:
 
 ```gradle
 dependencies {
-    implementation 'com.github.yourusername:android_yvp_sdk:1.0.0'
+    implementation 'com.github.bdhyv:android_yvp_sdk:1.0.0'
 }
 ```
 
