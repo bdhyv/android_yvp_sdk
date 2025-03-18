@@ -9,9 +9,9 @@
         android:allowBackup="true"
         android:label="Bible Verse Sample"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+        android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar"
         android:usesCleartextTraffic="true"
-        tools:replace="android:label">
+        tools:replace="android:label,android:theme">
         <activity
             android:name=".MainActivity"
             android:exported="true">
