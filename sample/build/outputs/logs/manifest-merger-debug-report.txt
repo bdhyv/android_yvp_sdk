@@ -4,7 +4,7 @@ ADDED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidManife
 INJECTED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidManifest.xml:2:1-25:12
 INJECTED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidManifest.xml:2:1-25:12
 INJECTED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidManifest.xml:2:1-25:12
-MERGED from [:app] /Users/brianherbert/dev/android_yvp_sdk/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-25:12
+MERGED from [:app] /Users/brianherbert/dev/android_yvp_sdk/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-24:12
 MERGED from [com.google.android.material:material:1.8.0] /Users/brianherbert/.gradle/caches/8.12.1/transforms/ac5413c603a2bd6b601d9d5792d462ee/transformed/material-1.8.0/AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/brianherbert/.gradle/caches/8.12.1/transforms/911494f3cdb7bd5c3e603e0344313ca7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/brianherbert/.gradle/caches/8.12.1/transforms/0f19c5781cce2c999bbcf6d702812205/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
@@ -76,8 +76,8 @@ ADDED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidManife
 		ADDED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidManifest.xml:6:22-76
 application
 ADDED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidManifest.xml:8:5-23:19
-MERGED from [:app] /Users/brianherbert/dev/android_yvp_sdk/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-23:19
-MERGED from [:app] /Users/brianherbert/dev/android_yvp_sdk/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-23:19
+MERGED from [:app] /Users/brianherbert/dev/android_yvp_sdk/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-22:19
+MERGED from [:app] /Users/brianherbert/dev/android_yvp_sdk/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-22:19
 MERGED from [com.google.android.material:material:1.8.0] /Users/brianherbert/.gradle/caches/8.12.1/transforms/ac5413c603a2bd6b601d9d5792d462ee/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
 MERGED from [com.google.android.material:material:1.8.0] /Users/brianherbert/.gradle/caches/8.12.1/transforms/ac5413c603a2bd6b601d9d5792d462ee/transformed/material-1.8.0/AndroidManifest.xml:24:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/brianherbert/.gradle/caches/8.12.1/transforms/911494f3cdb7bd5c3e603e0344313ca7/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
@@ -103,9 +103,8 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/brianherbert/.gradle
 		ADDED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidManifest.xml:9:9-35
 	android:theme
 		ADDED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidManifest.xml:12:9-76
-		REJECTED from [:app] /Users/brianherbert/dev/android_yvp_sdk/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:9-76
 	tools:replace
-		ADDED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidManifest.xml:14:9-52
+		ADDED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidManifest.xml:14:9-38
 	android:usesCleartextTraffic
 		ADDED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidManifest.xml:13:9-44
 activity#com.bible.sample.MainActivity
@@ -221,11 +220,11 @@ INJECTED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidMan
 		ADDED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidManifest.xml
 		INJECTED from /Users/brianherbert/dev/android_yvp_sdk/sample/src/main/AndroidManifest.xml
 activity#com.bible.android_yvp_sdk.DemoActivity
-ADDED from [:app] /Users/brianherbert/dev/android_yvp_sdk/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-22:20
+ADDED from [:app] /Users/brianherbert/dev/android_yvp_sdk/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:9-21:20
 	android:exported
-		ADDED from [:app] /Users/brianherbert/dev/android_yvp_sdk/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-36
+		ADDED from [:app] /Users/brianherbert/dev/android_yvp_sdk/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-36
 	android:name
-		ADDED from [:app] /Users/brianherbert/dev/android_yvp_sdk/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-66
+		ADDED from [:app] /Users/brianherbert/dev/android_yvp_sdk/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-66
 provider#androidx.startup.InitializationProvider
 ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/brianherbert/.gradle/caches/8.12.1/transforms/420953117910fe186dd653fa7422cccc/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/brianherbert/.gradle/caches/8.12.1/transforms/a79acb137cd40bbf66bc064d46b222e0/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20

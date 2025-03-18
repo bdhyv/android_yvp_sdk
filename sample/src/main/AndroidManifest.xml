@@ -11,7 +11,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar"
         android:usesCleartextTraffic="true"
-        tools:replace="android:label,android:theme">
+        tools:replace="android:label">
         <activity
             android:name=".MainActivity"
             android:exported="true">
