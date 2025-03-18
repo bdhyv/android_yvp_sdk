@@ -29,7 +29,9 @@
             android:id="@+id/btnLogin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/login_to_youversion" />
+            android:text="@string/login_to_youversion"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@android:color/black" />
 
         <!-- Loading Indicator -->
         <ProgressBar
@@ -52,7 +54,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textSize="16sp"
-                android:textStyle="bold" />
+                android:textStyle="bold"
+                android:textColor="@android:color/black" />
 
             <TextView
                 android:id="@+id/tvVerseText"
@@ -60,7 +63,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="8dp"
                 android:textSize="18sp"
-                android:lineSpacingExtra="4dp" />
+                android:lineSpacingExtra="4dp"
+                android:textColor="@android:color/black" />
 
             <TextView
                 android:id="@+id/tvTranslation"
@@ -69,7 +73,8 @@
                 android:layout_marginTop="8dp"
                 android:gravity="end"
                 android:textSize="14sp"
-                android:textStyle="italic" />
+                android:textStyle="italic"
+                android:textColor="@android:color/black" />
         </LinearLayout>
 
         <!-- Error Message -->

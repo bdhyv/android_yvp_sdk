@@ -2,7 +2,8 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -16,6 +17,7 @@
             android:text="Original BibleVerseView"
             android:textSize="18sp"
             android:textStyle="bold"
+            android:textColor="@android:color/black"
             android:layout_marginBottom="8dp" />
 
         <com.bible.android_yvp_sdk.ui.BibleVerseView
@@ -36,6 +38,7 @@
             android:text="YouVersion BibleVerseView"
             android:textSize="18sp"
             android:textStyle="bold"
+            android:textColor="@android:color/black"
             android:layout_marginBottom="8dp" />
 
         <com.bible.android_yvp_sdk.ui.YvpBibleVerseView
@@ -50,6 +53,7 @@
             android:text="YouVersion Translation Options"
             android:textSize="16sp"
             android:textStyle="bold"
+            android:textColor="@android:color/black"
             android:layout_marginBottom="8dp" />
 
         <RadioGroup
@@ -64,26 +68,31 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="NIV (111)"
+                android:textColor="@android:color/black"
                 android:checked="true" />
 
             <RadioButton
                 android:id="@+id/rbESV"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="ESV (59)" />
+                android:text="ESV (59)"
+                android:textColor="@android:color/black" />
 
             <RadioButton
                 android:id="@+id/rbKJV"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="KJV (1)" />
+                android:text="KJV (1)"
+                android:textColor="@android:color/black" />
         </RadioGroup>
 
         <Button
             android:id="@+id/btnRefresh"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Refresh YouVersion Verse" />
+            android:text="Refresh YouVersion Verse"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@android:color/black" />
 
     </LinearLayout>
 </ScrollView> 

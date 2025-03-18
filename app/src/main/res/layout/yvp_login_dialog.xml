@@ -11,6 +11,7 @@
         android:text="@string/login_to_youversion"
         android:textSize="18sp"
         android:textStyle="bold"
+        android:textColor="@android:color/black"
         android:layout_marginBottom="16dp" />
 
     <com.google.android.material.textfield.TextInputLayout
@@ -51,13 +52,18 @@
             android:id="@+id/btnCancel"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Cancel" />
+            android:text="Cancel"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@android:color/black"
+            android:layout_marginEnd="8dp" />
 
         <Button
             android:id="@+id/btnLogin"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Login" />
+            android:text="Login"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@android:color/black" />
     </LinearLayout>
 
 </LinearLayout> 

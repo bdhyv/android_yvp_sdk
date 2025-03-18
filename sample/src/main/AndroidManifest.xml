@@ -9,7 +9,7 @@
         android:allowBackup="true"
         android:label="Bible Verse Sample"
         android:supportsRtl="true"
-        android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar"
+        android:theme="@style/NoTheme"
         android:usesCleartextTraffic="true"
         tools:replace="android:label">
         <activity

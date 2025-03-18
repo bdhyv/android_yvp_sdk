@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme with minimal styling for demo purposes -->
+    <style name="NoTheme" parent="Theme.AppCompat.Light">
+        <!-- Set background colors and text colors explicitly -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackground">@android:color/transparent</item>
+        <item name="android:windowActivityTransitions">false</item>
+        <item name="android:windowContentTransitions">false</item>
+        <!-- Disable colorPrimary and colorAccent to avoid Material styling -->
+        <item name="colorPrimary">@android:color/black</item>
+        <item name="colorAccent">@android:color/black</item>
+    </style>
+</resources> 
