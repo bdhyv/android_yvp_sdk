@@ -1,0 +1,12 @@
+R_DEF: Internal format may change without notice
+local
+id bibleVerseView
+id progressBar
+id tvReference
+id tvTranslation
+id tvVerseText
+layout bible_verse_view
+layout fragment_bible_verse
+string app_name
+string error_loading_verse
+string loading_verse

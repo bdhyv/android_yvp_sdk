@@ -1,0 +1,3 @@
+rootProject.name = "android_yvp_sdk"
+include ':app'
+include ':sample' 
