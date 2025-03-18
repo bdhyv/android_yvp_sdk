@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Bible Verse SDK</string>
-    <string name="error_loading_verse">Error loading verse. Please try again.</string>
-    <string name="loading_verse">Loading verse...</string>
-</resources>
