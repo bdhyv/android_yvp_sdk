@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+id bibleVerseView
+id btnCancel
+id btnLogin
+id btnRefresh
+id etPassword
+id etUsername
+id passwordInputLayout
+id progressBar
+id radioGroup
+id rbESV
+id rbKJV
+id rbNIV
+id tvError
+id tvReference
+id tvTranslation
+id tvUserGreeting
+id tvVerseText
+id usernameInputLayout
+id verseContentLayout
+id yvpBibleVerseView
+layout activity_demo
+layout bible_verse_view
+layout fragment_bible_verse
+layout fragment_yvp_bible_verse
+layout yvp_bible_verse_view
+layout yvp_login_dialog
+string app_name
+string error_loading_verse
+string loading_verse
+string login_to_youversion
+string yvp_auth_failed
+string yvp_login_required
+string yvp_network_error

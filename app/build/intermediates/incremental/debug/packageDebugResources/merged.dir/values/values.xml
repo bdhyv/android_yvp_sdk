@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bible Verse SDK</string>
+    <string name="error_loading_verse">Error loading verse. Please try again.</string>
+    <string name="loading_verse">Loading verse...</string>
+    <string name="login_to_youversion">LOG IN TO YOUVERSION</string>
+    <string name="yvp_auth_failed">Authentication failed. Please try again.</string>
+    <string name="yvp_login_required">Login required to view YouVersion verse</string>
+    <string name="yvp_network_error">Network error. Please check your connection.</string>
+</resources>

@@ -1,0 +1,41 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.bible.android_yvp_sdk" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+5-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml
+6
+7    <uses-permission android:name="android.permission.INTERNET" />
+7-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:5:5-67
+7-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:5:22-64
+8
+9    <application
+9-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:7:5-22:19
+10        android:allowBackup="true"
+10-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:8:9-35
+11        android:label="@string/app_name"
+11-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:9:9-41
+12        android:supportsRtl="true"
+12-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:11:9-35
+13        android:theme="@style/Theme.MaterialComponents.Light.DarkActionBar" >
+13-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:10:9-76
+14        <activity
+14-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:13:9-20:20
+15            android:name="com.bible.android_yvp_sdk.DemoActivity"
+15-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:14:13-41
+16            android:exported="true" >
+16-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:15:13-36
+17            <intent-filter>
+17-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:16:13-19:29
+18                <action android:name="android.intent.action.MAIN" />
+18-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:17:17-69
+18-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:17:25-66
+19
+20                <category android:name="android.intent.category.LAUNCHER" />
+20-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:18:17-77
+20-->/Users/brianherbert/dev/android_yvp_sdk/app/src/main/AndroidManifest.xml:18:27-74
+21            </intent-filter>
+22        </activity>
+23    </application>
+24
+25</manifest>
